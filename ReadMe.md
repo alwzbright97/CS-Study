@@ -1,1 +1,1 @@
-# Repository for OOP Learning
+# Repository for Computer Science Learning
